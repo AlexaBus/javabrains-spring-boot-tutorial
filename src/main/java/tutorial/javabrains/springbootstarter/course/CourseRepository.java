@@ -1,9 +1,8 @@
-package tutorial.javabrains.springbootstarter.course.topic;
+package tutorial.javabrains.springbootstarter.course;
 
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;
-import java.util.zip.CheckedOutputStream;
 
 public interface CourseRepository extends CrudRepository<Course,String> {
 

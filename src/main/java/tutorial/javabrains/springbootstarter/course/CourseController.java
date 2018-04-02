@@ -1,4 +1,4 @@
-package tutorial.javabrains.springbootstarter.course.topic;
+package tutorial.javabrains.springbootstarter.course;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

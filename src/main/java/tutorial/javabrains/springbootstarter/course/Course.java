@@ -1,4 +1,4 @@
-package tutorial.javabrains.springbootstarter.course.topic;
+package tutorial.javabrains.springbootstarter.course;
 
 import tutorial.javabrains.springbootstarter.topic.Topic;
 
